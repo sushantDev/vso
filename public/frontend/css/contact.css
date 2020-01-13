@@ -1,0 +1,14 @@
+label {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#textfield {
+  border-radius: 6px;
+  width: 400px;
+  padding-bottom: 30px;
+}
+#textarea {
+  border-radius: 6px;
+  width: 400px;
+  padding-bottom: 30px;
+}
